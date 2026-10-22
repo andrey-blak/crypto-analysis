@@ -3,3 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# isolated environments (any conventional name: .venv, .venv-sbx, venv, env, ...)
+.venv*/
+venv*/
+env*/
